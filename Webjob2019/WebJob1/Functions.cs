@@ -16,6 +16,7 @@ namespace WebJob1
         {
             log.WriteLine(message);
             log.WriteLine("Commit1");
+            log.WriteLine("Commit2");
 
         }
     }
